@@ -1,0 +1,55 @@
+[B]Version 0.2.7[/B]
+- Set videos to show as watched
+- Set videos to allow resume
+
+[B]Version 0.2.6[/B]
+- Updated branding
+
+[B]Version 0.2.5[/B]
+- Fix SPMC
+
+[B]Version 0.2.4[/B]
+- Code Tweaks
+
+[B]Version 0.2.3[/B]
+- Updated TV ADDONS graphics
+
+[B]Version 0.2.2[/B]
+- updated forum link in addon.xml
+
+[B]Version 0.2.1[/B]
+- Cleaned up description
+- Updated TVADDONS branding
+
+[B]Version 0.2.0[/B]
+- Added TVADDONS branding dialog
+
+[B]Version 0.1.9[/B]
+- Added Video title stream
+
+[B]Version 0.1.8[/B]
+- Fixed typo
+
+[B]Version 0.1.7[/B]
+- Refactored to be much more efficient
+
+[B]Version 0.1.6[/B]
+- Added checks if service is offline
+
+[B]Version 0.1.5[/B]
+- Fixed sort order again
+
+[B]Version 0.1.4[/B]
+- Fixed sort order
+
+[B]Version 0.1.3[/B]
+- Setup with newly refined system
+
+[B]Version 0.1.2[/B]
+- Added images to playlists
+
+[B]Version 0.1.1[/B]
+- Initial release
+
+[B]Version 0.1.0[/B]
+- Initial version

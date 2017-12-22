@@ -1,0 +1,30 @@
+[B]Version 0.1.9[/B]
+- Added Movies and Horror section
+
+[B]Version 0.1.8[/B]
+- Updated branding
+
+[B]Version 0.1.7[/B]
+- Updated to support only the free channels from FilmOn (this has only been tested from within the US)
+- updated language to use strings.po instead of strings.xml
+
+[B]Version 0.1.6[/B]
+- Update TV ADDONS graphics
+
+[B]Version 0.1.5[/B]
+- Fixed Carribean Channels
+
+[B]Version 0.1.4[/B]
+- Code clean up
+
+[B]Version 0.1.3[/B]
+- Initial release
+
+[B]Version 0.1.2[/B]
+- Fixed name issues
+
+[B]Version 0.1.1[/B]
+- Fixed name issues
+
+[B]Version 0.1.0[/B]
+- Initial version

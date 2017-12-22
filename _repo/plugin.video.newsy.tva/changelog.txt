@@ -1,0 +1,11 @@
+[B]Version 0.1.2[/B]
+- Set videos to show as watched
+- Set videos to allow resume
+
+[B]Version 0.1.1[/B]
+- Changed ID to avoid conflict with other Newsy addon
+- Added Watch Live option
+- Added several sections that pull from the Newsy website
+
+[B]Version 0.1.0[/B]
+- Initial version

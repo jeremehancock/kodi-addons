@@ -1,0 +1,9 @@
+[B]Version 0.1.2[/B]
+- Set videos to show as watched
+- Set videos to allow resume
+
+[B]Version 0.1.1[/B]
+- Updated branding
+
+[B]Version 0.1.0[/B]
+- Initial version
