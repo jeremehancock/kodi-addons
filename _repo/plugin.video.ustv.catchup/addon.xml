@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.ustv.catchup" name="USTVcatchup" provider-name="mhancoc7" version="0.2.4">
+<addon id="plugin.video.ustv.catchup" name="USTVcatchup" provider-name="mhancoc7" version="0.2.5">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" version="2.12.4" />
