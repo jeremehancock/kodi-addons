@@ -1,4 +1,9 @@
 --------------------------
+USTVnow Guide - 1.3.4
+--------------------------
++ Minor server fix
+
+--------------------------
 USTVnow Guide - 1.3.3
 --------------------------
 + Removed uneeded recording notification
