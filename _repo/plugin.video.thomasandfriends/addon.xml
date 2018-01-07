@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.thomasandfriends" name="Thomas and Friends" provider-name="mhancoc7" version="0.1.7">
+<addon id="plugin.video.thomasandfriends" name="Thomas and Friends" provider-name="mhancoc7" version="0.1.8">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.liveresolver"/>

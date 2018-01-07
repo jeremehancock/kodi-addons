@@ -1,3 +1,6 @@
+[B]Version 0.2.0[/B]
+- Minor server update
+
 [B]Version 0.1.9[/B]
 - Set videos to show as watched
 - Set videos to allow resume

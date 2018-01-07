@@ -1,3 +1,6 @@
+[B]Version 0.2.6[/B]
+- Minor server update
+
 [B]Version 0.2.5[/B]
 - Fixed NBC
 

@@ -27,7 +27,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.animaltv" name="Animal TV" provider-name="mhancoc7" version="0.3.1">
+<addon id="plugin.video.animaltv" name="Animal TV" provider-name="mhancoc7" version="0.3.2">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
     </requires>
@@ -43,7 +43,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.last.week.tonight" name="Last Week Tonight" provider-name="mhancoc7" version="0.1.2">
+<addon id="plugin.video.last.week.tonight" name="Last Week Tonight" provider-name="mhancoc7" version="0.1.3">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.liveresolver"/>
@@ -76,7 +76,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.team.kodi.youtube.channel" name="Team Kodi YouTube Channel" provider-name="mhancoc7" version="0.1.9">
+<addon id="plugin.video.team.kodi.youtube.channel" name="Team Kodi YouTube Channel" provider-name="mhancoc7" version="0.2.0">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.liveresolver"/>
@@ -93,7 +93,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.mrbean" name="Mr. Bean" provider-name="mhancoc7" version="0.3.1">
+<addon id="plugin.video.mrbean" name="Mr. Bean" provider-name="mhancoc7" version="0.3.2">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.liveresolver"/>
@@ -110,7 +110,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.thomasandfriends" name="Thomas and Friends" provider-name="mhancoc7" version="0.1.7">
+<addon id="plugin.video.thomasandfriends" name="Thomas and Friends" provider-name="mhancoc7" version="0.1.8">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.liveresolver"/>
@@ -127,7 +127,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.ufo.tv" name="UFO TV" provider-name="mhancoc7" version="0.1.7">
+<addon id="plugin.video.ufo.tv" name="UFO TV" provider-name="mhancoc7" version="0.1.8">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.liveresolver"/>
@@ -187,7 +187,7 @@
      </extension>
 </addon>
 
-<addon id="plugin.video.funnyordie" name="Funny or Die" provider-name="mhancoc7" version="0.2.7">
+<addon id="plugin.video.funnyordie" name="Funny or Die" provider-name="mhancoc7" version="0.2.8">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.liveresolver"/>
@@ -204,7 +204,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.soulpancake" name="SoulPancake" provider-name="mhancoc7" version="0.2.6">
+<addon id="plugin.video.soulpancake" name="SoulPancake" provider-name="mhancoc7" version="0.2.7">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.liveresolver"/>
@@ -221,7 +221,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.blr" name="Bad Lip Reading" provider-name="mhancoc7" version="0.3.1">
+<addon id="plugin.video.blr" name="Bad Lip Reading" provider-name="mhancoc7" version="0.3.2">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.liveresolver"/>
@@ -238,7 +238,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.ustv.catchup" name="USTVcatchup" provider-name="mhancoc7" version="0.2.5">
+<addon id="plugin.video.ustv.catchup" name="USTVcatchup" provider-name="mhancoc7" version="0.2.6">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" version="2.12.4" />
@@ -255,7 +255,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.newsy.tva" name="Newsy" provider-name="mhancoc7" version="0.1.2">
+<addon id="plugin.video.newsy.tva" name="Newsy" provider-name="mhancoc7" version="0.1.3">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.liveresolver"/>
