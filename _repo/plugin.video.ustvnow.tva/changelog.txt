@@ -1,3 +1,6 @@
+[B]Version 14.8.7[/B]
+- Updated Paramount Network logo
+
 [B]Version 14.8.6[/B]
 - Added support for new Paramount Network channel (paid accounts)
 
