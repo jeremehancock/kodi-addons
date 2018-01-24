@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.ustvnow.tva" name="USTVnow Plus" provider-name="mhancoc7" version="14.8.5">
+<addon id="plugin.video.ustvnow.tva" name="USTVnow Plus" provider-name="mhancoc7" version="14.8.6">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" version="2.12.4" />
@@ -16,7 +16,7 @@
         <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
         <forum>https://www.tvaddons.co/forums/</forum>
         <website>https://ustvnow.tvaddons.co/</website>
-        <news>-14.8.5 [CR]Added access to the USTVnow Guide settings from the USTVnow Plus settings [CR][CR]See the changelog.txt file for previous updates.</news>
+        <news>-14.8.6 [CR]Added support for new Paramount Network channel (paid accounts) [CR][CR]See the changelog.txt file for previous updates.</news>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
