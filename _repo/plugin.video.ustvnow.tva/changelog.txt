@@ -1,3 +1,6 @@
+[B]Version 14.8.9[/B]
+- Minor tweaks for playlist.m3u8 issue in TV Guide
+
 [B]Version 14.8.8[/B]
 - Updated to fix issue with TV Guide not showing playlist.m3u8 instead of Channel title
 
