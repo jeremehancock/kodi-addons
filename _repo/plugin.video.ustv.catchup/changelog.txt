@@ -1,5 +1,10 @@
+[B]Version 0.2.8[/B]
+- Cooking Channel Fixes
+- Fixed NBC
+- Removed Freeform Movies since they are no longer available for free
+
 [B]Version 0.2.7[/B]
--Fixed Travel Channel
+- Fixed Travel Channel
 
 [B]Version 0.2.6[/B]
 - Minor server update
