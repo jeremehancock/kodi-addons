@@ -1,4 +1,9 @@
 --------------------------
+USTVnow Guide - 1.3.6
+--------------------------
++ Added option to determine if guide is downloaded from secure connection or not
+
+--------------------------
 USTVnow Guide - 1.3.5
 --------------------------
 + Set OSD default to false
