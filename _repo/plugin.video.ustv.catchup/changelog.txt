@@ -1,3 +1,9 @@
+[B]Version 0.2.9[/B]
+- Fixed DIY Network
+- Fixed HGTV
+- Fixed Food Network
+- Fixed Travel Channel
+
 [B]Version 0.2.8[/B]
 - Cooking Channel Fixes
 - Fixed NBC
