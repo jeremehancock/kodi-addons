@@ -1,0 +1,8 @@
+[B]Version 0.1.2[/B]
+- Initial Release
+
+[B]Version 0.1.1[/B]
+- tweaks
+
+[B]Version 0.1.0[/B]
+- Initial version
