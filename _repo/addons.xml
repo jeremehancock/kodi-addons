@@ -289,7 +289,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.charge.tva" name="Charge!" provider-name="mhancoc7" version="0.1.2">
+<addon id="plugin.video.charge.tva" name="Charge!" provider-name="mhancoc7" version="0.1.3">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
     </requires>
@@ -305,7 +305,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.comet.tva" name="Comet TV" provider-name="mhancoc7" version="0.1.1">
+<addon id="plugin.video.comet.tva" name="Comet TV" provider-name="mhancoc7" version="0.1.2">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
     </requires>
@@ -321,7 +321,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.tbd.tva" name="TBD TV" provider-name="mhancoc7" version="0.1.0">
+<addon id="plugin.video.tbd.tva" name="TBD TV" provider-name="mhancoc7" version="0.1.1">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
     </requires>
