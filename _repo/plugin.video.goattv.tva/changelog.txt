@@ -1,2 +1,8 @@
+[B]Version 0.1.2[/B]
+- Some code refactoring
+
+[B]Version 0.1.1[/B]
+- Added Browse YouTube option
+
 [B]Version 0.1.0[/B]
 - Initial version
