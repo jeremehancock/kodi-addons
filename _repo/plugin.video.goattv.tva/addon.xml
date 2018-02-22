@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.goattv.tva" name="Goat TV" provider-name="mhancoc7" version="0.1.0">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+        <import addon="plugin.video.youtube" version="5.5.1"/>
+    </requires>
+    <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Goat TV</summary>
+        <description>Please visit [COLOR blue]https://www.tvaddons.co[/COLOR] for addon support! Watch goats live! Powered by [COLOR blue]https://www.goatslive.com[/COLOR]. For even more goats check out [COLOR blue]http://randomgoat.com[/COLOR]!</description>
+        <platform>all</platform>
+        <forum>https://www.tvaddons.co/forums/</forum>
+        <website>https://www.tvaddons.co/</website>
+    </extension>
+</addon>
