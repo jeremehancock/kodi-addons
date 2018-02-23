@@ -255,7 +255,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.newsy.tva" name="Newsy" provider-name="mhancoc7" version="0.1.4">
+<addon id="plugin.video.newsy.tva" name="Newsy" provider-name="mhancoc7" version="0.1.5">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.liveresolver"/>
@@ -370,7 +370,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.goattv.tva" name="Goat TV" provider-name="mhancoc7" version="0.1.2">
+<addon id="plugin.video.goattv.tva" name="Goat TV" provider-name="mhancoc7" version="0.1.3">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="plugin.video.youtube" version="5.5.1"/>
