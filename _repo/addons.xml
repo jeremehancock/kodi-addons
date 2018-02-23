@@ -30,6 +30,7 @@
 <addon id="plugin.video.animaltv" name="Animal TV" provider-name="mhancoc7" version="0.3.3">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
+        <import addon="plugin.video.youtube" version="5.5.1"/>
     </requires>
     <extension library="main.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -255,10 +256,10 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.newsy.tva" name="Newsy" provider-name="mhancoc7" version="0.1.5">
+<addon id="plugin.video.newsy.tva" name="Newsy" provider-name="mhancoc7" version="0.1.6">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
-        <import addon="script.module.liveresolver"/>
+        <import addon="plugin.video.youtube" version="5.5.1"/>
     </requires>
     <extension library="main.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -370,7 +371,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.goattv.tva" name="Goat TV" provider-name="mhancoc7" version="0.1.3">
+<addon id="plugin.video.goattv.tva" name="Goat TV" provider-name="mhancoc7" version="0.1.4">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="plugin.video.youtube" version="5.5.1"/>
