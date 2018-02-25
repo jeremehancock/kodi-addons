@@ -1,3 +1,11 @@
+[B]Version 0.3.0[/B]
+- Fixed HGTV
+- Fixed DIY Network
+- Fixed Food Network
+- Fixed Travel Channel
+- Fixed NBC
+- Fixed Freeform
+
 [B]Version 0.2.9[/B]
 - Fixed DIY Network
 - Fixed HGTV
