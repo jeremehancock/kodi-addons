@@ -1,3 +1,7 @@
+[B]Version 0.1.2[/B]
+- Added Channel Selection prompt for HSN TV or HSN2 TV
+- Minor refactoring
+
 [B]Version 0.1.1[/B]
 - Initial release
 
