@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.freelivetv.tva" name="Free Live TV" provider-name="mhancoc7" version="0.1.4">
+<addon id="plugin.video.freelivetv.tva" name="Free Live TV" provider-name="mhancoc7" version="0.1.5">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="plugin.video.youtube" version="5.5.1"/>
@@ -7,6 +7,7 @@
         <import addon="plugin.video.cbsnews.tva" version="0.1.0"/>
         <import addon="plugin.video.comet.tva" version="0.1.0"/>
         <import addon="plugin.video.charge.tva" version="0.1.0"/>
+        <import addon="plugin.video.cheddar.tva" version="0.1.0"/>
         <import addon="plugin.video.hsn.tva" version="0.1.0"/>
         <import addon="plugin.video.newsylive.tva" version="0.1.0"/>
         <import addon="plugin.video.skynews.tva" version="0.1.0"/>

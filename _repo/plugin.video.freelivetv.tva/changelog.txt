@@ -1,3 +1,6 @@
+[B]Version 0.1.5[/B]
+- Added Cheddar Live
+
 [B]Version 0.1.4[/B]
 - Added RT News Live
 
