@@ -1,3 +1,6 @@
+[B]Version 0.1.6[/B]
+- Added Bloomberg Global News Live
+
 [B]Version 0.1.5[/B]
 - Added Cheddar Live
 
