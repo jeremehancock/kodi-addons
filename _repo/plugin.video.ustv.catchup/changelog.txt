@@ -1,3 +1,6 @@
+[B]Version 0.3.2[/B]
+- Added VPN message
+
 [B]Version 0.3.1[/B]
 - Removed uneeded code
 
