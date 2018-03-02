@@ -1,0 +1,10 @@
+[B]Version 0.1.2[/B]
+- Updated Icon
+- Added VPN Message
+- Some refactoring
+
+[B]Version 0.1.1[/B]
+- Renamed addon
+
+[B]Version 0.1.0[/B]
+- Initial version
