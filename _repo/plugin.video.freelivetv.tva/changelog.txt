@@ -1,3 +1,6 @@
+[B]Version 0.1.3[/B]
+- Fixed order
+
 [B]Version 0.1.2[/B]
 - Updated Icon
 - Added VPN Message
