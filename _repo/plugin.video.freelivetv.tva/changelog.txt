@@ -1,3 +1,6 @@
+[B]Version 0.1.7[/B]
+- Added France 24 Live
+
 [B]Version 0.1.6[/B]
 - Added Bloomberg Global News Live
 
