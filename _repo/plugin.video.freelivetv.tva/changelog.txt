@@ -1,3 +1,7 @@
+[B]Version 0.1.9[/B]
+- Added QVC
+- Added Tuff TV
+
 [B]Version 0.1.8[/B]
 - Added Newsmax TV Live
 

@@ -438,7 +438,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.freelivetv.tva" name="Free Live TV" provider-name="mhancoc7" version="0.1.8">
+<addon id="plugin.video.freelivetv.tva" name="Free Live TV" provider-name="mhancoc7" version="0.1.9">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="plugin.video.youtube" version="5.5.1"/>
@@ -455,6 +455,8 @@
         <import addon="plugin.video.tbd.tva" version="0.1.0"/>
         <import addon="plugin.video.france24.tva" version="0.1.0"/>
         <import addon="plugin.video.newsmaxtv.tva" version="0.1.0"/>
+        <import addon="plugin.video.tufftv.tva" version="0.1.0"/>
+        <import addon="plugin.video.qvc.tva" version="0.1.0"/>
 
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
@@ -546,6 +548,38 @@
     <extension point="xbmc.addon.metadata">
         <summary>Newsmax TV Live</summary>
         <description>Please visit [COLOR blue]https://www.tvaddons.co[/COLOR] for addon support! Newsmax TV Live!</description>
+        <platform>all</platform>
+        <forum>https://www.tvaddons.co/forums/</forum>
+        <website>https://www.tvaddons.co/</website>
+    </extension>
+</addon>
+
+<addon id="plugin.video.tufftv.tva" name="Tuff TV Live" provider-name="mhancoc7" version="0.1.1">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+    </requires>
+    <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Tuff TV Live</summary>
+        <description>Please visit [COLOR blue]https://www.tvaddons.co[/COLOR] for addon support! Tuff TV Live!</description>
+        <platform>all</platform>
+        <forum>https://www.tvaddons.co/forums/</forum>
+        <website>https://www.tvaddons.co/</website>
+    </extension>
+</addon>
+
+<addon id="plugin.video.qvc.tva" name="QVC Live" provider-name="mhancoc7" version="0.1.1">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+    </requires>
+    <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>QVC Live</summary>
+        <description>Please visit [COLOR blue]https://www.tvaddons.co[/COLOR] for addon support! QVC Live!</description>
         <platform>all</platform>
         <forum>https://www.tvaddons.co/forums/</forum>
         <website>https://www.tvaddons.co/</website>
