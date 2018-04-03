@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.tvcatchup.com" name="TVCatchup.com" version="1.5.1" provider-name="mhancoc7">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>Watch TVCatchup.com</summary>
+        <description>Watch live streams from TVCatchup.com</description>
+		<disclaimer lang="en">The author is not responsible for the media you find in this add-on.</disclaimer>
+    </extension>
+	
+</addon>
