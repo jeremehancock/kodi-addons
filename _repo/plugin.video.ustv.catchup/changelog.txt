@@ -1,3 +1,6 @@
+[B]Version 0.3.3[/B]
+- Fixed DIY Network
+
 [B]Version 0.3.2[/B]
 - Added VPN message
 
