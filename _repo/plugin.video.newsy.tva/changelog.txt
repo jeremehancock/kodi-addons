@@ -1,3 +1,6 @@
+[B]Version 0.1.7[/B]
+- Fixed stream source
+
 [B]Version 0.1.6[/B]
 - Fixed missing dependency
 
