@@ -256,7 +256,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.newsy.tva" name="Newsy" provider-name="mhancoc7" version="0.1.6">
+<addon id="plugin.video.newsy.tva" name="Newsy" provider-name="mhancoc7" version="0.1.7">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="plugin.video.youtube" version="5.5.1"/>
@@ -491,7 +491,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.cheddar.tva" name="Cheddar Live" provider-name="mhancoc7" version="0.1.1">
+<addon id="plugin.video.cheddar.tva" name="Cheddar Live" provider-name="mhancoc7" version="0.1.2">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
     </requires>
