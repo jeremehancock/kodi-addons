@@ -1,3 +1,6 @@
+[B]Version 0.1.2[/B]
+- Fixed issue with source changes
+
 [B]Version 0.1.1[/B]
 - Initial version
 
