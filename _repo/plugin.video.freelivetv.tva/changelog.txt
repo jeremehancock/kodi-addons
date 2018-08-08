@@ -1,3 +1,6 @@
+[B]Version 0.2.8[/B]
+- Fixed HSN program info
+
 [B]Version 0.2.7[/B]
 - another fix for User-Agent bug
 
