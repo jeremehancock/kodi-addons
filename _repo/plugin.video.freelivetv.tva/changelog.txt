@@ -1,3 +1,13 @@
+[B]Version 0.2.5[/B]
+- Total code rewrite
+- Added US TV and UK TV sections
+- Added Buzzr to US TV section
+- Added 24/7 Retro to US TV section
+- Removed France24 from US TV section
+
+[B]Version 0.2.4[/B]
+- Initial Rewrite
+
 [B]Version 0.2.3[/B]
 - Added Rev'n TV
 
