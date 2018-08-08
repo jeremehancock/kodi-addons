@@ -1,3 +1,6 @@
+[B]Version 0.2.6[/B]
+- fixed User-Agent bug
+
 [B]Version 0.2.5[/B]
 - Total code rewrite
 - Added US TV and UK TV sections
