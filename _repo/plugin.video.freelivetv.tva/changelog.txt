@@ -1,3 +1,6 @@
+[B]Version 0.2.9[/B]
+- Updated graphics. Thanks jokster!!
+
 [B]Version 0.2.8[/B]
 - Fixed HSN program info
 
