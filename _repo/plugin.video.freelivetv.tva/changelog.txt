@@ -1,3 +1,6 @@
+[B]Version 0.3.1[/B]
+- Added PBS Kids tot US TV
+
 [B]Version 0.3.0[/B]
 - Added Spirit TV to US TV
 - Added RadioU to US TV
