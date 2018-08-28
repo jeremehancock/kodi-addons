@@ -1,3 +1,6 @@
+[B]Version 14.9.0[/B]
+- Removed NBC and FOX from the Free listing since these are no longer included in Free package
+
 [B]Version 14.8.9[/B]
 - Minor tweaks for playlist.m3u8 issue in TV Guide
 
