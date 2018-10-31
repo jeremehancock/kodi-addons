@@ -1,3 +1,8 @@
+[B]Version 0.3.4[/B]
+- Fixed broken sources
+- Removed Newsy (now requires login to TV provider)
+- Removed TuffTV (source has shutdown)
+
 [B]Version 0.3.3[/B]
 - Added The CatholicTV Network
 
