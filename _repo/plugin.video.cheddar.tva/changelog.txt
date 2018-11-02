@@ -1,0 +1,15 @@
+[B]Version 0.1.4[/B]
+- Fixed issue with stream name
+
+[B]Version 0.1.3[/B]
+- Fixed stream source
+
+[B]Version 0.1.2[/B]
+- Fixed stream source
+- Added Channel Selection for Cheddar and Cheddar Big News
+
+[B]Version 0.1.1[/B]
+- Initial release
+
+[B]Version 0.1.0[/B]
+- Initial version

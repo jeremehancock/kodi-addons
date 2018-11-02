@@ -1,0 +1,15 @@
+[B]Version 0.1.4[/B]
+- Fixed Program formatting changes due to site changes
+
+[B]Version 0.1.3[/B]
+- Fixed Program formatting
+
+[B]Version 0.1.2[/B]
+- Added Channel Selection prompt for HSN TV or HSN2 TV
+- Minor refactoring
+
+[B]Version 0.1.1[/B]
+- Initial release
+
+[B]Version 0.1.0[/B]
+- Initial version

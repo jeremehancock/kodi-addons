@@ -1,0 +1,9 @@
+[B]Version 0.1.2[/B]
+- Added TVADDONS branding
+- Refactored a few things
+
+[B]Version 0.1.1[/B]
+- Initial release
+
+[B]Version 0.1.0[/B]
+- Initial version
