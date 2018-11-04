@@ -1,3 +1,6 @@
+[B]Version 0.1.2[/B]
+- Updated to use common module
+
 [B]Version 0.1.1[/B]
 - Initial release
 

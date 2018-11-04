@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.stadium.tva" name="Stadium Live" provider-name="mhancoc7" version="0.1.1">
+<addon id="plugin.video.stadium.tva" name="Stadium Live" provider-name="mhancoc7" version="0.1.2">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>

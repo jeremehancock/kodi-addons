@@ -257,10 +257,10 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.aljazeera.tva" name="Al Jazeera Live" provider-name="mhancoc7" version="0.1.2">
+<addon id="plugin.video.aljazeera.tva" name="Al Jazeera Live" provider-name="mhancoc7" version="0.1.3">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
-        <import addon="plugin.video.youtube" version="5.5.1"/>
+        <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -274,10 +274,10 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.bloomberg.tva" name="Bloomberg Global News Live" provider-name="mhancoc7" version="0.1.1">
+<addon id="plugin.video.bloomberg.tva" name="Bloomberg Global News Live" provider-name="mhancoc7" version="0.1.2">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
-        <import addon="plugin.video.youtube" version="5.5.1"/>
+        <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -291,9 +291,10 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.cbsnews.tva" name="CBSN Live" provider-name="mhancoc7" version="0.1.3">
+<addon id="plugin.video.cbsnews.tva" name="CBSN Live" provider-name="mhancoc7" version="0.1.4">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -307,9 +308,10 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.charge.tva" name="Charge!" provider-name="mhancoc7" version="0.1.3">
+<addon id="plugin.video.charge.tva" name="Charge!" provider-name="mhancoc7" version="0.1.4">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -323,9 +325,10 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.cheddar.tva" name="Cheddar Live" provider-name="mhancoc7" version="0.1.4">
+<addon id="plugin.video.cheddar.tva" name="Cheddar Live" provider-name="mhancoc7" version="0.1.5">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -339,9 +342,10 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.comet.tva" name="Comet TV" provider-name="mhancoc7" version="0.1.2">
+<addon id="plugin.video.comet.tva" name="Comet TV" provider-name="mhancoc7" version="0.1.3">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -355,9 +359,10 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.countrynetwork.tva" name="The Country Network Live" provider-name="mhancoc7" version="0.1.2">
+<addon id="plugin.video.countrynetwork.tva" name="The Country Network Live" provider-name="mhancoc7" version="0.1.3">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -371,10 +376,10 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.hsn.tva" name="HSN Live" provider-name="mhancoc7" version="0.1.4">
+<addon id="plugin.video.hsn.tva" name="HSN Live" provider-name="mhancoc7" version="0.1.5">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
-        <import addon="plugin.video.youtube" version="5.5.1"/>
+        <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -388,9 +393,10 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.lighttv.tva" name="Light TV Live" provider-name="mhancoc7" version="0.1.2">
+<addon id="plugin.video.lighttv.tva" name="Light TV Live" provider-name="mhancoc7" version="0.1.3">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -404,9 +410,10 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.newsmaxtv.tva" name="Newsmax TV Live" provider-name="mhancoc7" version="0.1.1">
+<addon id="plugin.video.newsmaxtv.tva" name="Newsmax TV Live" provider-name="mhancoc7" version="0.1.2">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -420,9 +427,10 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.qvc.tva" name="QVC Live" provider-name="mhancoc7" version="0.1.2">
+<addon id="plugin.video.qvc.tva" name="QVC Live" provider-name="mhancoc7" version="0.1.3">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -436,9 +444,10 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.revn.tva" name="Rev'n TV Live" provider-name="mhancoc7" version="0.1.1">
+<addon id="plugin.video.revn.tva" name="Rev'n TV Live" provider-name="mhancoc7" version="0.1.2">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -452,10 +461,10 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.rt.tva" name="RT News Live" provider-name="mhancoc7" version="0.1.1">
+<addon id="plugin.video.rt.tva" name="RT News Live" provider-name="mhancoc7" version="0.1.2">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
-        <import addon="plugin.video.youtube" version="5.5.1"/>
+        <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -469,10 +478,10 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.skynews.tva" name="Sky News Live" provider-name="mhancoc7" version="0.1.3">
+<addon id="plugin.video.skynews.tva" name="Sky News Live" provider-name="mhancoc7" version="0.1.4">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
-        <import addon="plugin.video.youtube" version="5.5.1"/>
+        <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -486,9 +495,10 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.stadium.tva" name="Stadium Live" provider-name="mhancoc7" version="0.1.1">
+<addon id="plugin.video.stadium.tva" name="Stadium Live" provider-name="mhancoc7" version="0.1.2">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -502,9 +512,10 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.tbd.tva" name="TBD TV" provider-name="mhancoc7" version="0.1.1">
+<addon id="plugin.video.tbd.tva" name="TBD TV" provider-name="mhancoc7" version="0.1.2">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
