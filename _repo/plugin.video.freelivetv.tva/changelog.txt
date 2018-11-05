@@ -1,3 +1,6 @@
+[B]Version 0.3.7[/B]
+- Cleaned up images
+
 [B]Version 0.3.6[/B]
 - Minor tweaks
 
