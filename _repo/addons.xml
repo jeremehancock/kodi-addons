@@ -257,7 +257,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.charge.tva" name="24/7 Retro TV" provider-name="mhancoc7" version="0.1.0">
+<addon id="plugin.video.twentyfoursevenretro.tva" name="24/7 Retro TV" provider-name="mhancoc7" version="0.1.0">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.m7lib" version="0.1.0" />
