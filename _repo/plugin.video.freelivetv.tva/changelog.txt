@@ -1,3 +1,6 @@
+[B]Version 0.3.8[/B]
+- Fixed issues with Aljazeera, Sky News, HSN, and RT
+
 [B]Version 0.3.7[/B]
 - Cleaned up images
 
