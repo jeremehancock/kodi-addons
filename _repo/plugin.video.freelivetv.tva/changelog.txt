@@ -1,3 +1,7 @@
+[B]Version 0.3.9[/B]
+- Removed Cheddar since it is now a pay service
+- Lots of code refactoring and cleanup
+
 [B]Version 0.3.8[/B]
 - Fixed issues with Aljazeera, Sky News, HSN, and RT
 
