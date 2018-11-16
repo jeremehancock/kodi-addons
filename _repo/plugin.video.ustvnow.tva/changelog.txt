@@ -1,3 +1,6 @@
+[B]Version 14.9.1[/B]
+- Updated for MavTV, NASA TV, and The Weather Channel
+
 [B]Version 14.9.0[/B]
 - Removed NBC and FOX from the Free listing since these are no longer included in Free package
 

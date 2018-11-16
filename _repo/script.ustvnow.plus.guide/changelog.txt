@@ -1,4 +1,9 @@
 --------------------------
+USTVnow Guide - 1.3.7
+--------------------------
++ Added support for MavTV, NASA TV, and The Weather Channel
+
+--------------------------
 USTVnow Guide - 1.3.6
 --------------------------
 + Added option to determine if guide is downloaded from secure connection or not
