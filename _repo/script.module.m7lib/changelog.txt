@@ -1,3 +1,6 @@
+[B]Version 0.1.8[/B]
+- Fixed HSN
+
 [B]Version 0.1.7[/B]
 - Added CBS Sports HQ
 - Added ET Live
