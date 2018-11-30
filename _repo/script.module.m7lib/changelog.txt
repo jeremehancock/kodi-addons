@@ -1,3 +1,6 @@
+[B]Version 0.2.0[/B]
+- Removed stream reporting (too many false positives)
+
 [B]Version 0.1.9[/B]
 - Major refactoring
 
