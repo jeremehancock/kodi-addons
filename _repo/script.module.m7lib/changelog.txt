@@ -1,3 +1,8 @@
+[B]Version 0.2.3[/B]
+- Fixed HSN program info with special characters
+- Code cleanup
+- Added imports to support Python 3. Hopefully making things more future proof
+
 [B]Version 0.2.2[/B]
 - Fixed HSN program info
 
