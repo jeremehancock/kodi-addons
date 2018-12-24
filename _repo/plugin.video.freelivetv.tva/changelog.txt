@@ -1,3 +1,6 @@
+[B]Version 0.4.4[/B]
+- Moved common functions to m7lib
+
 [B]Version 0.4.3[/B]
 - Major refactoring
 
