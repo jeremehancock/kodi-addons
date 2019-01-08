@@ -1,3 +1,6 @@
+[B]Version 0.2.6[/B]
+- Removed CBS News, CBS Sports HQ, and ET Live in response to DMCA
+
 [B]Version 0.2.5[/B]
 - Minor tweak to NASA TV
 
