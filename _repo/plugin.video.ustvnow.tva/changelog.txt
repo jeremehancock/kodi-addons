@@ -1,3 +1,6 @@
+[B]Version 14.9.4[/B]
+- Removed optional dependency on USTVnow Guide due to issue with Kodi 18
+
 [B]Version 14.9.3[/B]
 - Set USTVnow Guide as optional dependency
 
