@@ -1,3 +1,8 @@
+[B]Version 0.4.5[/B]
+- Updated to work with new m7lib
+- Added Genres section
+- Tons of new channels
+
 [B]Version 0.4.4[/B]
 - Moved common functions to m7lib
 

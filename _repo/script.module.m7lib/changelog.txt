@@ -1,3 +1,9 @@
+[B]Version 0.2.8[/B]
+- Some code refactoring
+- Added lots of new channels
+- Added ability to grab sections, and genres
+- Added abiltiy to sort channels by genre
+
 [B]Version 0.2.7[/B]
 - Fixed to work with Kodi 18
 - Fixed Stadium
