@@ -1,3 +1,8 @@
+[B]Version 0.3.0[/B]
+- Added more channels
+- Added Curiosity genre
+- Added Family genre
+
 [B]Version 0.2.9[/B]
 - Added more channels
 - Added 24-7 genre
