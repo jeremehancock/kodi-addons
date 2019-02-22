@@ -1,3 +1,6 @@
+[B]Version 0.4.7[/B]
+- Fixed issue with Settings Info
+
 [B]Version 0.4.6[/B]
 - Fixed issue with Settings Info
 
