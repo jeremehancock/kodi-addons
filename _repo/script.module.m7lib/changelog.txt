@@ -1,3 +1,6 @@
+[B]Version 0.3.3[/B]
+- Added several more channels
+
 [B]Version 0.3.2[/B]
 - Updates to genre organization
 
