@@ -1,3 +1,6 @@
+[B]Version 0.3.7[/B]
+- Updated add_channel and add_sections
+
 [B]Version 0.3.6[/B]
 - Removed Cash Cab
 
