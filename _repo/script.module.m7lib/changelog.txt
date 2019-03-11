@@ -1,3 +1,7 @@
+[B]Version 0.4.0[/B]
+- Added Flashback TV channel
+- Added Runway TV channel
+
 [B]Version 0.3.9[/B]
 - Added Gusto channel
 - Added Big Life TV channel
