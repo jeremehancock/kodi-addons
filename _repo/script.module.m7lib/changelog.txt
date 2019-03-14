@@ -1,3 +1,6 @@
+[B]Version 0.4.2[/B]
+- Updated stream_plug
+
 [B]Version 0.4.1[/B]
 - Updated stream_plug
 
