@@ -294,7 +294,7 @@
         </extension>
     </addon>
 
-    <addon id="script.module.m7lib" name="mhancoc7 Common Functions" provider-name="mhancoc7" version="0.4.2">
+    <addon id="script.module.m7lib" name="mhancoc7 Common Functions" provider-name="mhancoc7" version="0.4.3">
         <requires>
             <import addon="xbmc.python" version="2.20.0"/>
             <import addon="plugin.video.youtube" version="5.5.1"/>
