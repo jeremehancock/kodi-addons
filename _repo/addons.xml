@@ -85,7 +85,7 @@
         </extension>
     </addon>
 
-    <addon id="plugin.video.freelivetv.tva" name="Free Live TV" provider-name="mhancoc7" version="0.4.7">
+    <addon id="plugin.video.freelivetv.tva" name="Free Live TV" provider-name="mhancoc7" version="0.4.8">
         <requires>
             <import addon="xbmc.python" version="2.1.0"/>
             <import addon="script.module.m7lib" version="0.1.0"/>
@@ -95,7 +95,7 @@
         </extension>
         <extension point="xbmc.addon.metadata">
             <summary>Free Live TV</summary>
-            <description>Please visit [COLOR blue]https://www.tvaddons.co[/COLOR] for addon support! Free Live TV!
+            <description>Please visit [COLOR lightskyblue]https://www.tvaddons.co[/COLOR] for addon support! Free Live TV!
             </description>
             <platform>all</platform>
             <forum>https://www.tvaddons.co/forums/</forum>
