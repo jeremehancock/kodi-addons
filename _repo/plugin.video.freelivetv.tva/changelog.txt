@@ -1,3 +1,6 @@
+[B]Version 0.4.9[/B]
+- Minor refactor
+
 [B]Version 0.4.8[/B]
 - Changed colors in settings
 
