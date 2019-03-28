@@ -1,3 +1,6 @@
+[B]Version 0.5.1[/B]
+- Minor update for Animal TV
+
 [B]Version 0.5.0[/B]
 - Fixed issue with Live streams being marked as watched
 
