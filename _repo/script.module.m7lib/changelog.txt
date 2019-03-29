@@ -1,3 +1,6 @@
+[B]Version 0.5.2[/B]
+- Updated server connections
+
 [B]Version 0.5.1[/B]
 - Minor update for Animal TV
 
