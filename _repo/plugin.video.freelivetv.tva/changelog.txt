@@ -1,3 +1,6 @@
+[B]Version 0.5.0[/B]
+- Started adding support for Python 3
+
 [B]Version 0.4.9[/B]
 - Minor refactor
 
