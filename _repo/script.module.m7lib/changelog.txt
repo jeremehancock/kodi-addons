@@ -1,3 +1,7 @@
+[B]Version 0.5.7[/B]
+- Fixed Jewelry TV
+- Some minor code tweaks
+
 [B]Version 0.5.6[/B]
 - Removed CNBC
 
