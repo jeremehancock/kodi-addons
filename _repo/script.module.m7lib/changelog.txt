@@ -1,3 +1,6 @@
+[B]Version 0.5.6[/B]
+- Removed CNBC
+
 [B]Version 0.5.5[/B]
 - Started adding support for Python 3
 
