@@ -1,3 +1,8 @@
+[B]Version 0.5.8[/B]
+- Added Food TV
+- Added Wahlburgers
+- Added Dog the Bounty Hunter
+
 [B]Version 0.5.7[/B]
 - Fixed Jewelry TV
 - Some minor code tweaks
