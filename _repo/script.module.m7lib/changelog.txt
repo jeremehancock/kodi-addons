@@ -1,3 +1,15 @@
+[B]Version 0.5.9[/B]
+- Added Black Cinema
+- Added Pluto TV Cine
+- Added Voyager Documentaries
+- Added Science TV
+- Added Adventure TV
+- Added DocuTV
+- Added FrontDoor
+- Added Pluto TV History
+- Added Pluto TV Indies
+- Added Pluto TV Travel
+
 [B]Version 0.5.8[/B]
 - Added Food TV
 - Added Wahlburgers
