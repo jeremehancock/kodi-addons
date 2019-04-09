@@ -1,3 +1,10 @@
+[B]Version 0.6.0[/B]
+- Added MST3K
+- Added RiffTrax
+- Added Pluto TV Animals
+- Added Live Music Replays
+- Added Stand-Up TV
+
 [B]Version 0.5.9[/B]
 - Added Black Cinema
 - Added Pluto TV Cine
