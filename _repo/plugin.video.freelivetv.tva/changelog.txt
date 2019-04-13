@@ -1,3 +1,6 @@
+[B]Version 0.5.2[/B]
+- Added error handling
+
 [B]Version 0.5.1[/B]
 - Code cleanup
 
