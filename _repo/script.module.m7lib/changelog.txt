@@ -1,3 +1,6 @@
+[B]Version 0.6.2[/B]
+- Refactored Tubi TV functions a bit
+
 [B]Version 0.6.1[/B]
 - Renamed function to get live animal streams
 - Added Tubi TV functions
