@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <addon id="repository.mhancoc7.public" name="mhancoc7 Kodi Addons Repo" version="0.1.3" provider-name="mhancoc7">
+    <addon id="repository.mhancoc7.public" name="mhancoc7 Kodi Addons Repo" version="0.1.4" provider-name="mhancoc7">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
@@ -8,11 +8,6 @@
             <checksum>https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml.md5</checksum>
             <datadir zip="true">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/</datadir>
             <hashes>false</hashes>
-	    <dir>
-		<info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
-		<checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
-	    </dir>
         </extension>
         <extension point="xbmc.addon.metadata">
             <summary>Kodi Addons</summary>
