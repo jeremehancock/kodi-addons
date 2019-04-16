@@ -1,4 +1,4 @@
-# kodi-addons
+# m7 Kodi Addons
 
 Unofficial Kodi Addons for the Kodi Media Center - Kodi is a registered trademark of the XBMC Foundation. I am not connected to or in any other way affiliated with Kodi.
 
