@@ -31,5 +31,5 @@ All code is provided as-is without any warranty. Use at your own risk.
 ```
 ---
 
-[![GitHub](https://img.shields.io/github/license/mhancoc7/kodi-addons.svg?style=for-the-badge)](https://github.com/mhancoc7/kodi-addons/blob/master/LICENSE.md)
-[![DMCA Policy](https://img.shields.io/badge/DMCA-Policy-lightgrey.svg?style=for-the-badge)](https://github.com/mhancoc7/kodi-addons/blob/master/DMCA.md)
+[![GitHub](https://img.shields.io/github/license/mhancoc7/kodi-addons.svg?style=for-the-badge)](LICENSE.html)
+[![DMCA Policy](https://img.shields.io/badge/DMCA-Policy-lightgrey.svg?style=for-the-badge)](DMCA.html)
