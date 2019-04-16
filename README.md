@@ -21,3 +21,5 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE
 ```
 All code is provided as-is without any warranty. Use at your own risk.
 ```
+![GitHub](https://img.shields.io/github/license/mhancoc7/kodi-addons.svg?style=for-the-badge)
+[![DMCA Policy](https://img.shields.io/badge/DMCA-Policy-lightgrey.svg?style=for-the-badge)](https://github.com/mhancoc7/kodi-addons/DMCA.md)
