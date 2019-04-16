@@ -4,7 +4,7 @@ Unofficial Kodi Addons for the Kodi Media Center - Kodi is a registered trademar
 
 ## Affiliation
 
-I am an independent developer. I have chosen to be affiliated with TVADDONS because they have always treated me with respect. I can't say the same for other organizations within the Kodi community. I do not earn a single dollar from any of my work. I do it because I enjoy it.
+I am an independent developer. I have chosen to be affiliated with [TVADDONS}(https://tvaddons.co) because they have always treated me with respect. I can't say the same for other organizations within the Kodi community. I do not earn a single dollar from any of my work. I do it because I enjoy it.
 
 ### Getting started
 
