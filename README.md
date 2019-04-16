@@ -44,4 +44,4 @@ Content owners can submit DMCA takedown notices by submitting a new issue with t
 
 ---
 
-[![GitHub](https://img.shields.io/github/license/mhancoc7/kodi-addons.svg?style=for-the-badge)](https://github.com/mhancoc7/kodi-addons/blob/master/LICENSE.md)
+[![GitHub](https://img.shields.io/github/license/mhancoc7/kodi-addons-green.svg?style=for-the-badge)](https://github.com/mhancoc7/kodi-addons/blob/master/LICENSE.md)
