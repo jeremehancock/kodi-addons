@@ -10,7 +10,7 @@ I am an independent developer. I have chosen to be affiliated with TVADDONS beca
 
 To get started with my addons you should install my repo. Then you can install my addons from within Kodi using the "Install from repository" option.
 
-[![mhancoc7 Repo](https://img.shields.io/badge/mhancoc7-Repo-blue.svg?style=for-the-badge)](https://github.com/mhancoc7/kodi-addons/tree/master/_repo/repository.mhancoc7.public)
+[![m7 Repo](https://img.shields.io/badge/mhancoc7-Repo-blue.svg?style=for-the-badge)](https://github.com/mhancoc7/kodi-addons/tree/master/_repo/repository.mhancoc7.public)
 
 ## Disclaimer
 
