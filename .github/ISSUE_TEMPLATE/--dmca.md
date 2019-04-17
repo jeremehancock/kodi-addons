@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**Which addon?**
+**Addon Name**
 
-**Which channel?**
+**Channel Name**
 
 **Ownership verification**
 Please provide details so that the your ownership of the content can be verified.
