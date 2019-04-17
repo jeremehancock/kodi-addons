@@ -29,7 +29,7 @@ To get started with my addons you should install my repo. Then you can install m
 ```
 All code is provided as-is without any warranty. Use at your own risk.
 ```
-[![GitHub](https://img.shields.io/github/license/mhancoc7/kodi-addons.svg?color=green&style=for-the-badge)](https://github.com/mhancoc7/kodi-addons/blob/master/LICENSE.md)
+[![Submit Issue](https://img.shields.io/badge/Submit-Issue-red.svg?style=for-the-badge)](https://github.com/mhancoc7/kodi-addons/issues/new/choose)
 
 
 ---
@@ -42,4 +42,6 @@ All my addons pull from publicly available sources.
 
 Content owners can submit DMCA takedown notices by submitting a new issue with the full details. 
 ```
-[![Submit Issue](https://img.shields.io/badge/Submit-Issue-red.svg?style=for-the-badge)](https://github.com/mhancoc7/kodi-addons/issues/new/choose)
+[![Submit Issue](https://img.shields.io/badge/DMCA-Policy-lightgrey.svg?style=for-the-badge)](https://github.com/mhancoc7/kodi-addons/issues/new/choose)
+
+[![GitHub](https://img.shields.io/github/license/mhancoc7/kodi-addons.svg?color=green&style=for-the-badge)](https://github.com/mhancoc7/kodi-addons/blob/master/LICENSE.md)
