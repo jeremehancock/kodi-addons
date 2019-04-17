@@ -12,4 +12,4 @@ assignees: ''
 **Which channel?**
 
 **Ownership verification**
-Please provide details so that the ownership of the content can be verified.
+Please provide details so that the your ownership of the content can be verified.
