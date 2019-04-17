@@ -1,6 +1,7 @@
 ---
 name: "* DMCA"
-about: DMCA take down notice
+about: 'All my addons pull from publicly available sources.   Content owners can submit
+  DMCA takedown notices by submitting a new issue with the full details. '
 title: ''
 labels: ''
 assignees: ''
