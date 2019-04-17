@@ -24,7 +24,7 @@ To get started with my addons you should install my repo. Then you can install m
 ---
 
 
-## Disclaimer
+### Disclaimer
 
 ```
 All code is provided as-is without any warranty. Use at your own risk.
@@ -35,7 +35,7 @@ All code is provided as-is without any warranty. Use at your own risk.
 ---
 
 
-## DMCA Policy
+### DMCA Policy
 
 ```
 All my addons pull from publicly available sources. 
