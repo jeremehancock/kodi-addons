@@ -1,3 +1,6 @@
+[B]Version 0.4.1[/B]
+- Version bump to test ci/cd
+
 [B]Version 0.4.0[/B]
 - Version bump to test ci/cd
 
