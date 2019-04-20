@@ -1,3 +1,6 @@
+[B]Version 0.4.2[/B]
+- Updated import for python 2/3 support
+
 [B]Version 0.4.1[/B]
 - Version bump to test ci/cd
 
