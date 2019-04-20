@@ -1,3 +1,6 @@
+[B]Version 0.6.7[/B]
+- Added '# nosec' to suppress bandit warning since this is not used for security/cryptographic purposes.
+
 [B]Version 0.6.6[/B]
 - Added '# nosec' to suppress bandit warnings since the code is not accepting non-http schemes
 
