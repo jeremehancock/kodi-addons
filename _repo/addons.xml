@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <addons>
-    <addon id="repository.mhancoc7.public" name="mhancoc7 Kodi Addons Repo" version="0.1.4" provider-name="mhancoc7">
+    <addon id="repository.mhancoc7.public" name="mhancoc7 Kodi Addons Repo" provider-name="mhancoc7" version="0.1.4">
         <requires>
-            <import addon="xbmc.addon" version="12.0.0"/>
+            <import addon="xbmc.addon" version="12.0.0" />
         </requires>
-        <extension point="xbmc.addon.repository" name="mhancoc7 Kodi Addons Repo">
+        <extension name="mhancoc7 Kodi Addons Repo" point="xbmc.addon.repository">
             <info compressed="false">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml</info>
             <checksum>https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml.md5</checksum>
             <datadir zip="true">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/</datadir>
@@ -17,25 +17,10 @@
         </extension>
     </addon>
 
-    <addon id="plugin.video.animaltv" name="Animal TV" provider-name="mhancoc7" version="0.3.8">
-        <requires>
-            <import addon="xbmc.python" version="2.1.0"/>
-            <import addon="script.module.m7lib" version="0.1.0"/>
-        </requires>
-        <extension library="default.py" point="xbmc.python.pluginsource">
-            <provides>video</provides>
-        </extension>
-        <extension point="xbmc.addon.metadata">
-            <summary>Watch live streams of animals!</summary>
-            <description>Watch live streams of animals from around the world.</description>
-            <platform>all</platform>
-        </extension>
-    </addon>
-
     <addon id="plugin.video.freelivetv.tva" name="Free Live TV" provider-name="mhancoc7" version="0.5.2">
         <requires>
-            <import addon="xbmc.python" version="2.1.0"/>
-            <import addon="script.module.m7lib" version="0.1.0"/>
+            <import addon="xbmc.python" version="2.1.0" />
+            <import addon="script.module.m7lib" version="0.1.0" />
         </requires>
         <extension library="default.py" point="xbmc.python.pluginsource">
             <provides>video</provides>
@@ -53,8 +38,8 @@
 
     <addon id="plugin.video.tubi.m7" name="Tubi" provider-name="mhancoc7" version="0.1.3">
         <requires>
-            <import addon="xbmc.python" version="2.1.0"/>
-            <import addon="script.module.m7lib" version="0.1.0"/>
+            <import addon="xbmc.python" version="2.1.0" />
+            <import addon="script.module.m7lib" version="0.1.0" />
         </requires>
         <extension library="default.py" point="xbmc.python.pluginsource">
             <provides>video</provides>
@@ -71,15 +56,28 @@
 
     <addon id="script.module.m7lib" name="m7lib" provider-name="mhancoc7" version="0.6.2">
         <requires>
-            <import addon="xbmc.python" version="2.20.0"/>
-            <import addon="plugin.video.youtube" version="5.5.1"/>
+            <import addon="xbmc.python" version="2.20.0" />
+            <import addon="plugin.video.youtube" version="5.5.1" />
         </requires>
-        <extension point="xbmc.python.module" library="lib"/>
+        <extension library="lib" point="xbmc.python.module" />
         <extension point="xbmc.addon.metadata">
             <description lan="en">mhancoc7 Common Functions</description>
             <summary lang="en">mhancoc7 Common Functions</summary>
-            <disclaimer lang="en"></disclaimer>
+            <disclaimer lang="en" />
             <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         </extension>
     </addon>
-</addons>
+<addon id="plugin.video.animaltv" name="Animal TV" provider-name="mhancoc7" version="0.3.9">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.m7lib" version="0.1.0" />
+    </requires>
+    <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Watch live streams of animals!</summary>
+        <description>Watch live streams of animals from around the world.</description>
+        <platform>all</platform>
+    </extension>
+</addon></addons>

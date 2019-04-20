@@ -1,3 +1,6 @@
+[B]Version 0.3.9[/B]
+- Version bump to test ci/cd
+
 [B]Version 0.3.8[/B]
 - Minor Changes
 
