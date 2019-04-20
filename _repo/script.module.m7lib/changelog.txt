@@ -1,3 +1,6 @@
+[B]Version 0.6.8[/B]
+- Refactored to simplify get_stream_and_play function
+
 [B]Version 0.6.7[/B]
 - Added '# nosec' to suppress bandit warning since this is not used for security/cryptographic purposes.
 
