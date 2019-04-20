@@ -1,3 +1,6 @@
+[B]Version 0.6.6[/B]
+- Added '# nosec' to suppress bandit warnings since the code is not accepting non-http schemes
+
 [B]Version 0.6.5[/B]
 - Added check for 'http' when using Urllib urlopen
 - Fixed issue with Redefining built-in 'type'
