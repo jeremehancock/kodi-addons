@@ -17,20 +17,7 @@
         </extension>
     </addon>
 
-    <addon id="script.module.m7lib" name="m7lib" provider-name="mhancoc7" version="0.6.2">
-        <requires>
-            <import addon="xbmc.python" version="2.20.0" />
-            <import addon="plugin.video.youtube" version="5.5.1" />
-        </requires>
-        <extension library="lib" point="xbmc.python.module" />
-        <extension point="xbmc.addon.metadata">
-            <description lan="en">mhancoc7 Common Functions</description>
-            <summary lang="en">mhancoc7 Common Functions</summary>
-            <disclaimer lang="en" />
-            <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        </extension>
-    </addon>
-<addon id="plugin.video.animaltv" name="Animal TV" provider-name="mhancoc7" version="0.4.4">
+    <addon id="plugin.video.animaltv" name="Animal TV" provider-name="mhancoc7" version="0.4.4">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.m7lib" version="0.1.0" />
@@ -72,5 +59,17 @@
         <platform>all</platform>
         <forum>https://www.tvaddons.co/forums/</forum>
         <website>https://www.tvaddons.co/</website>
+    </extension>
+</addon><addon id="script.module.m7lib" name="m7lib" provider-name="mhancoc7" version="0.6.3">
+    <requires>
+        <import addon="xbmc.python" version="2.20.0" />
+        <import addon="plugin.video.youtube" version="5.5.1" />
+    </requires>
+    <extension library="lib" point="xbmc.python.module" />
+    <extension point="xbmc.addon.metadata">
+        <description lan="en">mhancoc7 Common Functions</description>
+        <summary lang="en">mhancoc7 Common Functions</summary>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <platform>all</platform>
     </extension>
 </addon></addons>

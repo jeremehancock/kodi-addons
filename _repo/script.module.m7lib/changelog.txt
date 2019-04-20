@@ -1,3 +1,6 @@
+[B]Version 0.6.3[/B]
+- Fixed bare exception
+
 [B]Version 0.6.2[/B]
 - Refactored Tubi TV functions a bit
 
