@@ -10,7 +10,7 @@ I am an independent developer. I have chosen to be affiliated with [TVADDONS](ht
 
 To get started you should install my repo. Then you can install my addons from within Kodi using the "Install from repository" option. If you would like to keep up with the lastest on any of my addons be sure to check out the forums.
 
-[![Download Repo](https://img.shields.io/badge/Download-Repo-blue.svg?style=for-the-badge)](https://github.com/mhancoc7/kodi-addons/raw/master/_repo/repository.mhancoc7.public/repository.mhancoc7.public-0.1.4.zip) [![m7 Forums](https://img.shields.io/badge/m7-Forums-yellow.svg?style=for-the-badge)](https://www.tvaddons.co/community/tags/m7kodi/)
+[![Download Repo](https://img.shields.io/badge/Download-Repo-blue.svg?style=for-the-badge)](https://github.com/mhancoc7/kodi-addons/raw/master/_repo/repository.mhancoc7.public/repository.mhancoc7.public-0.1.4.zip) [![m7 Forums](https://img.shields.io/badge/m7-Forums-blueviolet.svg?style=for-the-badge)](https://www.tvaddons.co/community/tags/m7kodi/)
 
 
 ---
