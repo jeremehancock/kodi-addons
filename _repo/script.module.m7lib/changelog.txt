@@ -1,3 +1,8 @@
+[B]Version 0.6.9[/B]
+- Added France 24
+- Removed Flashback TV
+- Updated stream_plug
+
 [B]Version 0.6.8[/B]
 - Refactored to simplify get_stream_and_play function
 
