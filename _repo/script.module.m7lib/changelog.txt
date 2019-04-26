@@ -1,3 +1,6 @@
+[B]Version 0.7.0[/B]
+- Added support for searching Tubi
+
 [B]Version 0.6.9[/B]
 - Added France 24
 - Removed Flashback TV
