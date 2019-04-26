@@ -1,3 +1,6 @@
+[B]Version 0.1.5[/B]
+- Added Search
+
 [B]Version 0.1.4[/B]
 - Removed unused import
 - Update import for python 2/3 support
