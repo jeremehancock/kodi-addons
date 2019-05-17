@@ -1,3 +1,6 @@
+[B]Version 0.1.6[/B]
+- Fixed issue with geo location being blocked by ad-blocking services. It will fallback to US if it is blocked
+
 [B]Version 0.1.5[/B]
 - Added Search
 
