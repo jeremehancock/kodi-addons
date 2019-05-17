@@ -1,3 +1,6 @@
+[B]Version 0.1.8[/B]
+- Fixed exception issue
+
 [B]Version 0.1.7[/B]
 - Fixed exception issue
 
