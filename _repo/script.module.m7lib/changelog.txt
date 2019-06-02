@@ -1,3 +1,11 @@
+[B]Version 0.7.1[/B]
+- Removed Spirit TV
+- Removed RadioU
+- Removed Pluto TV Westerns
+- Fixed QVC
+- Added QVC 3
+- Added CMT Westerns
+
 [B]Version 0.7.0[/B]
 - Added support for searching Tubi
 
