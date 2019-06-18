@@ -1,3 +1,6 @@
+[B]Version 0.7.4[/B]
+- Fixed channel order
+
 [B]Version 0.7.3[/B]
 - Added Antenna TV
 - Added CBN
