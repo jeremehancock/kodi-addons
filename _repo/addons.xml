@@ -58,7 +58,7 @@
         <forum>https://www.tvaddons.co/forums/</forum>
         <website>https://www.tvaddons.co/</website>
     </extension>
-</addon><addon id="script.module.m7lib" name="m7lib" provider-name="mhancoc7" version="0.7.2">
+</addon><addon id="script.module.m7lib" name="m7lib" provider-name="mhancoc7" version="0.7.3">
     <requires>
         <import addon="xbmc.python" version="2.20.0" />
         <import addon="plugin.video.youtube" version="5.5.1" />

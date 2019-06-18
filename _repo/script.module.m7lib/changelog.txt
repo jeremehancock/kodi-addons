@@ -1,3 +1,12 @@
+[B]Version 0.7.3[/B]
+- Added Antenna TV
+- Added CBN
+- Added Cozi TV
+- Added Retro TV
+- Added This TV
+- Added News Net
+- Removed Celebrity Page Network
+
 [B]Version 0.7.2[/B]
 - Added Spirit TV
 - Added Court TV
