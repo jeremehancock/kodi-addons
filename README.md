@@ -24,7 +24,7 @@ To get started you should install my repo. Then you can install my addons from w
 
 
 ### Coded With
-[![PyCharm](./assets/images/pycharm.png)](https://www.jetbrains.com/?from=KodiAddons)
+[![PyCharm](./assets/images/pycharm-300.png)](https://www.jetbrains.com/?from=KodiAddons)
 
 ---
 
