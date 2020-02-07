@@ -1,3 +1,7 @@
+[B]Version 0.8.1/B]
+- Fixed broken channels
+- Removed channels that do not have a source any longer
+
 [B]Version 0.8.0/B]
 - Added Classic Arts Showcase
 
