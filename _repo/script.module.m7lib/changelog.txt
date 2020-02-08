@@ -1,3 +1,6 @@
+[B]Version 0.8.2/B]
+- Small tweak to hopefully fix odd issue on some Android devices
+
 [B]Version 0.8.1/B]
 - Fixed broken channels
 - Removed channels that do not have a source any longer
