@@ -1,3 +1,6 @@
+[B]Version 0.8.3/B]
+- Refactored to use Zero TV API
+
 [B]Version 0.8.2/B]
 - Small tweak to hopefully fix odd issue on some Android devices
 
