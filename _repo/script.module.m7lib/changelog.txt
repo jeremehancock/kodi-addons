@@ -1,3 +1,6 @@
+[B]Version 0.8.4/B]
+- Removed code used for genres/sections
+
 [B]Version 0.8.3/B]
 - Refactored to use Zero TV API
 
