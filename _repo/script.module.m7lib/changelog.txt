@@ -1,17 +1,20 @@
-[B]Version 0.8.4/B]
+[B]Version 0.8.5[/B]
+- Updates for API restrictions
+
+[B]Version 0.8.4[/B]
 - Removed code used for genres/sections
 
-[B]Version 0.8.3/B]
+[B]Version 0.8.3[/B]
 - Refactored to use Zero TV API
 
-[B]Version 0.8.2/B]
+[B]Version 0.8.2[/B]
 - Small tweak to hopefully fix odd issue on some Android devices
 
-[B]Version 0.8.1/B]
+[B]Version 0.8.1[/B]
 - Fixed broken channels
 - Removed channels that do not have a source any longer
 
-[B]Version 0.8.0/B]
+[B]Version 0.8.0[/B]
 - Added Classic Arts Showcase
 
 [B]Version 0.7.9[/B]
