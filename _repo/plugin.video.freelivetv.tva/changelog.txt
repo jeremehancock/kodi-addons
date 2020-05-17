@@ -1,5 +1,8 @@
+[B]Version 0.5.8[/B]
+- Updated for API changes
+
 [B]Version 0.5.7[/B]
-- Removed genres (too hard to keep up with)
+- Updated for API changes
 
 [B]Version 0.5.6[/B]
 - Set channels to live

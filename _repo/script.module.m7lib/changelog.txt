@@ -1,3 +1,6 @@
+[B]Version 0.8.6[/B]
+- Updates for new API
+
 [B]Version 0.8.5[/B]
 - Updates for API restrictions
 
