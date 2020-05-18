@@ -1,6 +1,8 @@
 ### About
 
-I am an independent developer. I enjoy building Kodi add-ons that provide access to Free Live TV. I never charge for my add-ons. It is truly a labor of love. If you would like to help support my efforts please consider becoming a supporter at [Patreon](https://www.patreon.com/bozodev?fan_landing=true).
+I am an independent developer. I enjoy building Kodi add-ons that provide access to Free Live TV. I never charge for my add-ons. 
+
+It is truly a labor of love. If you would like to help support my efforts please consider becoming a supporter at [Patreon](https://www.patreon.com/bozodev?fan_landing=true).
 
 [![Patreon](./assets/images/support-me-on-patreon.png)](https://www.patreon.com/bozodev?fan_landing=true)
 
@@ -11,10 +13,8 @@ I am an independent developer. I enjoy building Kodi add-ons that provide access
 ### Getting started
 
 To get started you should install my repo. Then you can install my addons from within Kodi using the "Install from repository" option. 
-<br /><br />
-If you would like to keep up with the lastest on any of my addons be sure to check out the forums.
 
-[![Download Repo](https://img.shields.io/badge/Download-Repo-blue.svg?style=for-the-badge)](https://github.com/mhancoc7/kodi-addons/raw/master/_repo/repository.mhancoc7.public/repository.mhancoc7.public-0.1.4.zip) [![m7 Forums](https://img.shields.io/badge/m7-Forums-yellowgreen.svg?style=for-the-badge)](https://www.tvaddons.co/community/tags/m7kodi/)
+[![Download Repo](https://img.shields.io/badge/Download-Repo-blue.svg?style=for-the-badge)](https://github.com/mhancoc7/kodi-addons/raw/master/_repo/repository.mhancoc7.public/repository.mhancoc7.public-0.1.4.zip)
 
 
 ---
