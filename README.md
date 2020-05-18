@@ -1,6 +1,8 @@
-### Affiliation
+### About
 
-I am an independent developer. I have chosen to be affiliated with [TVADDONS](https://www.tvaddons.co/) because they have always treated me with respect. I can't say the same for other organizations within the Kodi community. I do not earn a single dollar from any of my work. I do it because I enjoy it.
+I am an independent developer. I enjoy building Kodi add-ons that provide access to Free Live TV. I never charge for my add-ons. It is truly a labor of love. If you would like to help support my efforts please consider becoming a supporter at [!Patreon](https://www.patreon.com/bozodev?fan_landing=true).
+
+[![Patreon](./assets/images/support-me-on-patreon.png)](https://www.patreon.com/bozodev?fan_landing=true)
 
 
 ---
