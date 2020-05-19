@@ -1,3 +1,6 @@
+[B]Version 0.5.9[/B]
+- Added Patreon info
+
 [B]Version 0.5.8[/B]
 - Updated for API changes
 
