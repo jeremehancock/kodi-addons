@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addon id="script.module.m7lib" name="m7lib" provider-name="mhancoc7" version="0.8.7">
+<addon id="script.module.m7lib" name="m7lib" provider-name="mhancoc7" version="0.8.8">
     <requires>
         <import addon="xbmc.python" version="2.20.0" />
         <import addon="plugin.video.youtube" version="5.5.1" />
     </requires>
     <extension library="lib" point="xbmc.python.module" />
     <extension point="xbmc.addon.metadata">
-        <description lan="en">mhancoc7 Common Functions</description>
+        <description lan="en">Please support the continued development of m7lib by becoming a Patron [COLOR lightskyblue]https://patreon.m7kodi.dev/[/COLOR]</description>
         <summary lang="en">mhancoc7 Common Functions</summary>
         <platform>all</platform>
+        <website>https://m7kodi.dev</website>
     </extension>
 </addon>
