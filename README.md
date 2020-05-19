@@ -4,7 +4,7 @@ I am an independent developer. I enjoy building Kodi addons that provide access 
 <br /><br />
 If you would like to help support my efforts please consider becoming a supporter at [Patreon](https://www.patreon.com/bozodev?fan_landing=true).
 
-[![Patreon](./assets/images/support-me-on-patreon.png)](https://www.patreon.com/bozodev?fan_landing=true)
+[![Patreon](./assets/images/support_me_on_patreon.png)](https://www.patreon.com/bozodev?fan_landing=true)
 
 
 ---
