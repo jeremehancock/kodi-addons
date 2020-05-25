@@ -1,3 +1,6 @@
+[B]Version 0.9.0[/B]
+- Updated for API changes
+
 [B]Version 0.8.9[/B]
 - Updated for API changes
 
