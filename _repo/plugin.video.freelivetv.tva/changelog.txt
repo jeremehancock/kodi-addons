@@ -1,3 +1,6 @@
+[B]Version 0.6.0[/B]
+- Fixed encoding issue
+
 [B]Version 0.5.9[/B]
 - Added Patreon info
 
