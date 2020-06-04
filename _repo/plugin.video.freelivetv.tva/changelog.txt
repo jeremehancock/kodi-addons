@@ -1,3 +1,6 @@
+[B]Version 0.6.1[/B]
+- Added Channel Search
+
 [B]Version 0.6.0[/B]
 - Fixed encoding issue
 
