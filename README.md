@@ -18,13 +18,6 @@ To get started you should install my repo. Then you can install my addons from w
 ---
 
 
-### Code Quality
-[![Codacy grade](https://img.shields.io/codacy/grade/6341344d5f7c4e6fb25378008a8598ae.svg?label=Animal%20TV&style=for-the-badge)](https://app.codacy.com/app/mhancoc7/plugin.video.animaltv?utm_source=github.com&utm_medium=referral&utm_content=mhancoc7/plugin.video.animaltv&utm_campaign=Badge_Grade_Settings) [![Codacy grade](https://img.shields.io/codacy/grade/5e750d5a2753464f83f978cf93087da0.svg?label=Free%20Live%20TV&style=for-the-badge)](https://app.codacy.com/app/mhancoc7/plugin.video.freelivetv.tva?utm_source=github.com&utm_medium=referral&utm_content=mhancoc7/plugin.video.freelivetv.tva&utm_campaign=Badge_Grade_Dashboard) [![Codacy grade](https://img.shields.io/codacy/grade/342d571d1aaa4fa591789a085654c747.svg?label=m7lib&style=for-the-badge)](https://app.codacy.com/app/mhancoc7/script.module.m7lib?utm_source=github.com&utm_medium=referral&utm_content=mhancoc7/script.module.m7lib&utm_campaign=Badge_Grade_Dashboard) [![Codacy grade](https://img.shields.io/codacy/grade/97229c408505443cb1638aa3d34841c4.svg?label=Tubi&style=for-the-badge)](https://app.codacy.com/app/mhancoc7/plugin.video.tubi.m7?utm_source=github.com&utm_medium=referral&utm_content=mhancoc7/plugin.video.tubi.m7&utm_campaign=Badge_Grade_Dashboard) [![Codacy grade](https://img.shields.io/codacy/grade/75a016bc27904942803f22f8bc3dddd6.svg?label=m7%20Repo&style=for-the-badge)](https://app.codacy.com/app/mhancoc7/repository.mhancoc7.public?utm_source=github.com&utm_medium=referral&utm_content=mhancoc7/repository.mhancoc7.public&utm_campaign=Badge_Grade_Dashboard)
-
-
----
-
-
 ### Coded With
 [![PyCharm](./assets/images/pycharm-300.png)](https://www.jetbrains.com/?from=KodiAddons)
 
