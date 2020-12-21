@@ -1,3 +1,9 @@
+[B]Version 0.6.3[/B]
+- Fixed search when only one item returned
+
+[B]Version 0.6.2[/B]
+- Updates to logic
+
 [B]Version 0.6.1[/B]
 - Added Channel Search
 

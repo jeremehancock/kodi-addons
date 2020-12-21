@@ -1,3 +1,9 @@
+[B]Version 0.4.7[/B]
+- Version bump
+
+[B]Version 0.4.6[/B]
+- Speed improvements
+
 [B]Version 0.4.5[/B]
 - Added Patreon info
 

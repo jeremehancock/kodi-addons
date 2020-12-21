@@ -1,3 +1,12 @@
+[B]Version 0.9.5[/B]
+- Version bump
+
+[B]Version 0.9.4[/B]
+- More fixes
+
+[B]Version 0.9.3[/B]
+- Fixes for Animal TV addon
+
 [B]Version 0.9.2[/B]
 - Added support for channel search
 
