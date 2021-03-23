@@ -1,3 +1,6 @@
+[B]Version 0.4.8[/B]
+- Updates for Kodi 19
+
 [B]Version 0.4.7[/B]
 - Version bump
 
