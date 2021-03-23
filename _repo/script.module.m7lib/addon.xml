@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addon id="script.module.m7lib" name="m7lib" provider-name="mhancoc7" version="0.9.5">
+<addon id="script.module.m7lib" name="m7lib" provider-name="mhancoc7" version="0.9.6">
     <requires>
+        <import addon="xbmc.python" version="3.0.0" />
         <import addon="plugin.video.youtube" version="5.5.1" />
     </requires>
     <extension library="lib" point="xbmc.python.module" />

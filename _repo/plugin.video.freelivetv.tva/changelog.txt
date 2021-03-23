@@ -1,3 +1,6 @@
+[B]Version 0.6.4[/B]
+- Updated for Kodi 19
+
 [B]Version 0.6.3[/B]
 - Fixed search when only one item returned
 
