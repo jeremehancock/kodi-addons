@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addon id="plugin.video.tubi.m7" name="Tubi" provider-name="mhancoc7" version="0.1.9">
+<addon id="plugin.video.tubi.m7" name="Tubi" provider-name="mhancoc7" version="0.2.0">
     <requires>
-        <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
@@ -9,8 +8,14 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Tubi</summary>
-        <description>Please support the continued development of Tubi by becoming a Patron [COLOR lightskyblue]https://patreon.m7kodi.dev/[/COLOR]</description>
+        <description>Please support the continued development of Tubi by becoming a Patron [COLOR
+            lightskyblue]https://patreon.m7kodi.dev/[/COLOR]
+        </description>
         <platform>all</platform>
         <website>https://m7kodi.dev</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
     </extension>
 </addon>

@@ -15,31 +15,6 @@
             <description>Video addons for Kodi</description>
             <platform>all</platform>
     </extension>
-</addon><addon id="plugin.video.tubi.m7" name="Tubi" provider-name="mhancoc7" version="0.1.9">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0" />
-        <import addon="script.module.m7lib" version="0.1.0" />
-    </requires>
-    <extension library="default.py" point="xbmc.python.pluginsource">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Tubi</summary>
-        <description>Please support the continued development of Tubi by becoming a Patron [COLOR lightskyblue]https://patreon.m7kodi.dev/[/COLOR]</description>
-        <platform>all</platform>
-        <website>https://m7kodi.dev</website>
-    </extension>
-</addon><addon id="script.module.m7lib" name="m7lib" provider-name="mhancoc7" version="0.9.9">
-    <requires>
-        <import addon="plugin.video.youtube" version="5.5.1" />
-    </requires>
-    <extension library="lib" point="xbmc.python.module" />
-    <extension point="xbmc.addon.metadata">
-        <description lan="en">Please support the continued development of m7lib by becoming a Patron [COLOR lightskyblue]https://patreon.m7kodi.dev/[/COLOR]</description>
-        <summary lang="en">mhancoc7 Common Functions</summary>
-        <platform>all</platform>
-        <website>https://m7kodi.dev</website>
-    </extension>
 </addon><addon id="plugin.video.animaltv" name="Animal TV" provider-name="mhancoc7" version="0.5.1">
     <requires>
         <import addon="script.module.m7lib" version="0.1.0" />
@@ -77,5 +52,35 @@
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
+    </extension>
+</addon><addon id="plugin.video.tubi.m7" name="Tubi" provider-name="mhancoc7" version="0.2.0">
+    <requires>
+        <import addon="script.module.m7lib" version="0.1.0" />
+    </requires>
+    <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Tubi</summary>
+        <description>Please support the continued development of Tubi by becoming a Patron [COLOR
+            lightskyblue]https://patreon.m7kodi.dev/[/COLOR]
+        </description>
+        <platform>all</platform>
+        <website>https://m7kodi.dev</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon><addon id="script.module.m7lib" name="m7lib" provider-name="mhancoc7" version="1.0.0">
+    <requires>
+        <import addon="plugin.video.youtube" version="5.5.1" />
+    </requires>
+    <extension library="lib" point="xbmc.python.module" />
+    <extension point="xbmc.addon.metadata">
+        <description lan="en">Please support the continued development of m7lib by becoming a Patron [COLOR lightskyblue]https://patreon.m7kodi.dev/[/COLOR]</description>
+        <summary lang="en">mhancoc7 Common Functions</summary>
+        <platform>all</platform>
+        <website>https://m7kodi.dev</website>
     </extension>
 </addon></addons>
