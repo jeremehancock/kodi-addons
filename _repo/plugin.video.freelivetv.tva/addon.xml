@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addon id="plugin.video.freelivetv.tva" name="Free Live TV" provider-name="mhancoc7" version="0.6.8">
+<addon id="plugin.video.freelivetv.tva" name="Free Live TV" provider-name="mhancoc7" version="0.6.9">
     <requires>
-        <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
@@ -9,11 +8,14 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Free Live TV</summary>
-        <description>Please support the continued development of Free Live TV by becoming a Patron [COLOR lightskyblue]https://patreon.m7kodi.dev/[/COLOR]</description>
+        <description>Please support the continued development of Free Live TV by becoming a Patron [COLOR
+            lightskyblue]https://patreon.m7kodi.dev/[/COLOR]
+        </description>
         <platform>all</platform>
         <website>https://m7kodi.dev</website>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
     </extension>
-    <assets>
-        <icon>icon.png</icon>
-    </assets>
 </addon>
