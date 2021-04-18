@@ -46,9 +46,8 @@
     <assets>
         <icon>icon.png</icon>
     </assets>
-</addon><addon id="plugin.video.animaltv" name="Animal TV" provider-name="mhancoc7" version="0.4.8">
+</addon><addon id="plugin.video.animaltv" name="Animal TV" provider-name="mhancoc7" version="0.4.9">
     <requires>
-        <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
     <extension library="default.py" point="xbmc.python.pluginsource">
@@ -60,9 +59,8 @@
         <platform>all</platform>
         <website>https://m7kodi.dev</website>
     </extension>
-</addon><addon id="script.module.m7lib" name="m7lib" provider-name="mhancoc7" version="0.9.7">
+</addon><addon id="script.module.m7lib" name="m7lib" provider-name="mhancoc7" version="0.9.9">
     <requires>
-        <import addon="xbmc.python" version="3.0.0" />
         <import addon="plugin.video.youtube" version="5.5.1" />
     </requires>
     <extension library="lib" point="xbmc.python.module" />

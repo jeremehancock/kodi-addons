@@ -1,3 +1,9 @@
+[B]Version 0.9.9[/B]
+- Updates Kodi 19
+
+[B]Version 0.9.8[/B]
+- Updates Kodi 19
+
 [B]Version 0.9.7[/B]
 - Updates Kodi 19
 
