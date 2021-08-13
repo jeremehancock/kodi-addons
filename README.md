@@ -12,7 +12,7 @@ If you would like to help support my efforts please consider becoming a supporte
 
 To get started you should install my repo. Then you can install my addons from within Kodi using the "Install from repository" option. 
 
-[![Download Repo](https://img.shields.io/badge/Download-Repo-blue.svg?style=for-the-badge)](https://github.com/jeremehancock/kodi-addons/raw/master/_repo/repository.jeremehancock.public/repository.jeremehancock.public-0.1.4.zip)
+[![Download Repo](https://img.shields.io/badge/Download-Repo-blue.svg?style=for-the-badge)](https://github.com/jeremehancock/kodi-addons/raw/master/_repo/repository.mhancoc7.public/repository.mhancoc7.public-0.1.4.zip)
 
 
 ---
