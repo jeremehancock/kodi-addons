@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addon id="repository.mhancoc7.public" name="mhancoc7 Kodi Addons Repo" provider-name="mhancoc7" version="0.1.4">
+<addon id="repository.mhancoc7.public" name="mhancoc7 Kodi Addons Repo" version="0.1.5" provider-name="mhancoc7">
         <requires>
             <import addon="xbmc.addon" version="12.0.0" />
         </requires>
-        <extension name="mhancoc7 Kodi Addons Repo" point="xbmc.addon.repository">
+        <extension point="xbmc.addon.repository" name="mhancoc7 Kodi Addons Repo">
             <info compressed="false">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml</info>
             <checksum>https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml.md5</checksum>
             <datadir zip="true">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/</datadir>

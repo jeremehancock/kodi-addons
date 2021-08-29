@@ -1,21 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <addons>
-    <addon id="repository.mhancoc7.public" name="mhancoc7 Kodi Addons Repo" provider-name="mhancoc7" version="0.1.4">
-        <requires>
-            <import addon="xbmc.addon" version="12.0.0" />
-        </requires>
-        <extension name="mhancoc7 Kodi Addons Repo" point="xbmc.addon.repository">
-            <info compressed="false">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml</info>
-            <checksum>https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/</datadir>
-            <hashes>false</hashes>
-        </extension>
-        <extension point="xbmc.addon.metadata">
-            <summary>Kodi Addons</summary>
-            <description>Video addons for Kodi</description>
-            <platform>all</platform>
-    </extension>
-</addon><addon id="plugin.video.animaltv" name="Animal TV" provider-name="mhancoc7" version="0.5.1">
+    <addon id="plugin.video.animaltv" name="Animal TV" provider-name="mhancoc7" version="0.5.2">
     <requires>
         <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
@@ -34,7 +19,7 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon><addon id="plugin.video.freelivetv.tva" name="Free Live TV" provider-name="mhancoc7" version="0.6.9">
+</addon><addon id="plugin.video.freelivetv.tva" name="Free Live TV" provider-name="mhancoc7" version="0.7.0">
     <requires>
         <import addon="script.module.m7lib" version="0.1.0" />
     </requires>
@@ -52,17 +37,6 @@
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
-    </extension>
-</addon><addon id="script.module.m7lib" name="m7lib" provider-name="mhancoc7" version="1.0.0">
-    <requires>
-        <import addon="plugin.video.youtube" version="5.5.1" />
-    </requires>
-    <extension library="lib" point="xbmc.python.module" />
-    <extension point="xbmc.addon.metadata">
-        <description lan="en">Please support the continued development of m7lib by becoming a Patron [COLOR lightskyblue]https://patreon.m7kodi.dev/[/COLOR]</description>
-        <summary lang="en">mhancoc7 Common Functions</summary>
-        <platform>all</platform>
-        <website>https://m7kodi.dev</website>
     </extension>
 </addon><addon id="plugin.video.tubi.m7" name="Tubi" provider-name="mhancoc7" version="0.2.0">
     <requires>
@@ -82,5 +56,31 @@
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
+    </extension>
+</addon><addon id="script.module.m7lib" name="m7lib" provider-name="mhancoc7" version="1.0.1">
+    <requires>
+        <import addon="plugin.video.youtube" version="5.5.1" />
+    </requires>
+    <extension library="lib" point="xbmc.python.module" />
+    <extension point="xbmc.addon.metadata">
+        <description lan="en">Please support the continued development of m7lib by becoming a Patron [COLOR lightskyblue]https://patreon.m7kodi.dev/[/COLOR]</description>
+        <summary lang="en">mhancoc7 Common Functions</summary>
+        <platform>all</platform>
+        <website>https://m7kodi.dev</website>
+    </extension>
+</addon><addon id="repository.mhancoc7.public" name="mhancoc7 Kodi Addons Repo" version="0.1.5" provider-name="mhancoc7">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0" />
+        </requires>
+        <extension point="xbmc.addon.repository" name="mhancoc7 Kodi Addons Repo">
+            <info compressed="false">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml</info>
+            <checksum>https://github.com/mhancoc7/kodi-addons/raw/master/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/mhancoc7/kodi-addons/raw/master/_repo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Kodi Addons</summary>
+            <description>Video addons for Kodi</description>
+            <platform>all</platform>
     </extension>
 </addon></addons>
