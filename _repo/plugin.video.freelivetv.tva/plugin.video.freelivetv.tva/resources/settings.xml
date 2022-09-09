@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="10000">
+        <setting type="text" label="9000"/>
+        <setting type="lsep"/>
+        <setting type="text" label="9001"/>
+        <setting type="text" label="9002"/>
+    </category>
+    <setting id="vpn_notify" default="0" visible="false"/>
+    <setting id="patreon_notify" default="0" visible="false"/>
+</settings>
