@@ -1,6 +1,6 @@
 ## Update
 
-This project has been discontinued. I have moved on from Kodi and I no longer have time to maintain this project. 
+#This project has been discontinued. I have moved on from Kodi and I no longer have time to maintain this project. 
 
 ### About
 
