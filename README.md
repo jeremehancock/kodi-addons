@@ -2,7 +2,7 @@
 
 I am an independent developer. I enjoy building Kodi addons that provide access to Free Live TV. I never charge for my addons. It is truly a labor of love. 
 <br /><br />
-If you would like to help support my efforts please consider becoming a supporter at [![Patreon](./assets/images/support_me_on_patreon.png)](https://www.patreon.com/bozodev?fan_landing=true)
+<!--If you would like to help support my efforts please consider becoming a supporter at [![Patreon](./assets/images/support_me_on_patreon.png)](https://www.patreon.com/bozodev?fan_landing=true)-->
 
 
 ---
