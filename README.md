@@ -1,5 +1,3 @@
-## Update
-
 # This project has been discontinued.
 
 ### About
